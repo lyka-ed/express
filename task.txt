@@ -1,0 +1,8 @@
+Express
+
+Build app using Express
+- Create Author Router in another file 
+- This should have a CRUD endpoints ( Create, Read, UpdATE, Delete).
+- Link it to main file (index.js or server.js or app.js whatever you chose to use).
+- Add a global simple logger to the app. (like  i showed  you in class).
+
